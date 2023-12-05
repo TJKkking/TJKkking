@@ -32,5 +32,5 @@
 
 <p>
 <a href="https://www.ootao.cn/"><img alt="Website" src="https://img.shields.io/badge/Website-ootao.cn-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-2510399607@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:2510399607@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2510399607@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
