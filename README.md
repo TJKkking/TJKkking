@@ -7,10 +7,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![GO](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=276DC3)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=276DC3) 
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
